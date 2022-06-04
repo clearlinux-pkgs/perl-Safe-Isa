@@ -4,7 +4,7 @@
 #
 Name     : perl-Safe-Isa
 Version  : 1.000010
-Release  : 1
+Release  : 2
 URL      : https://cpan.metacpan.org/authors/id/E/ET/ETHER/Safe-Isa-1.000010.tar.gz
 Source0  : https://cpan.metacpan.org/authors/id/E/ET/ETHER/Safe-Isa-1.000010.tar.gz
 Summary  : 'Call isa, can, does and DOES safely on things that may not be objects'
@@ -82,4 +82,4 @@ find %{buildroot} -type f -name '*.bs' -empty -exec rm -f {} ';'
 
 %files perl
 %defattr(-,root,root,-)
-/usr/lib/perl5/vendor_perl/5.34.0/Safe/Isa.pm
+/usr/lib/perl5/*
