@@ -5,7 +5,7 @@
 #
 Name     : perl-Safe-Isa
 Version  : 1.000010
-Release  : 6
+Release  : 7
 URL      : https://cpan.metacpan.org/authors/id/E/ET/ETHER/Safe-Isa-1.000010.tar.gz
 Source0  : https://cpan.metacpan.org/authors/id/E/ET/ETHER/Safe-Isa-1.000010.tar.gz
 Summary  : 'Call isa, can, does and DOES safely on things that may not be objects'
